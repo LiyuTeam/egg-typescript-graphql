@@ -1,7 +1,7 @@
 {
-  "name": "egg-graphql",
-  "version": "2.8.0",
-  "description": "egg graphql plugin",
+  "name": "@liyu_team/egg-typescript-graphql",
+  "version": "2.8.1",
+  "description": "egg typescript graphql plugin",
   "eggPlugin": {
     "name": "graphql"
   },
@@ -57,12 +57,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-graphql.git"
+    "url": "git+https://github.com/LiyuTeam/egg-typescript-graphql.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/eggjs/egg-graphql#readme",
-  "author": "jtyjty99999",
+  "homepage": "https://github.com/LiyuTeam/egg-typescript-graphql",
+  "author": "zico_kuo",
   "license": "MIT"
 }
